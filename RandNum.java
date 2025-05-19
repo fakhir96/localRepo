@@ -1,6 +1,12 @@
-// package LocalRepo;
+
 import java.util.Random;
 import java.util.Scanner;
+
+class Paper{
+    public static void Print(){
+        System.out.println("Hello");
+    }
+}
 
 public class RandNum {
     public static void main(String[] args) {
